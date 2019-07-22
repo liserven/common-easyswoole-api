@@ -1,0 +1,37 @@
+[2019-07-07 20:13:55][DEBUG][ERROR] : [Uncaught Error: Class 'EasySwoole\EasySwoole\HotReload' not found in /www/imooc/EasySwooleEvent.php:34
+Stack trace:
+#0 /www/imooc/vendor/easyswoole/easyswoole/src/Core.php(119): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /www/imooc/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /www/imooc/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /www/imooc/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(48): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /www/imooc/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown at file:/www/imooc/EasySwooleEvent.php line:34]
+[2019-07-07 20:14:40][DEBUG][ERROR] : [Uncaught Error: Class 'HotReload' not found in /www/imooc/EasySwooleEvent.php:34
+Stack trace:
+#0 /www/imooc/vendor/easyswoole/easyswoole/src/Core.php(119): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /www/imooc/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /www/imooc/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /www/imooc/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(48): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /www/imooc/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown at file:/www/imooc/EasySwooleEvent.php line:34]
+[2019-07-07 20:16:06][DEBUG][ERROR] : [Uncaught Error: Class 'App\Process\HotReload' not found in /www/imooc/EasySwooleEvent.php:35
+Stack trace:
+#0 /www/imooc/vendor/easyswoole/easyswoole/src/Core.php(119): EasySwoole\EasySwoole\EasySwooleEvent::mainServerCreate(Object(EasySwoole\EasySwoole\Swoole\EventRegister))
+#1 /www/imooc/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#2 /www/imooc/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#3 /www/imooc/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(48): EasySwoole\EasySwoole\Command\CommandContainer->hook('start', Array)
+#4 /www/imooc/easyswoole(20): EasySwoole\EasySwoole\Command\CommandRunner->run(Array)
+#5 {main}
+  thrown at file:/www/imooc/EasySwooleEvent.php line:35]
+[2019-07-07 20:27:41][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:18]
+[2019-07-07 20:39:03][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:18]
+[2019-07-07 20:39:03][DEBUG][ERROR] : [Class 'YaConf' not found at file:/www/imooc/App/HttpController/Api/V1/Index.php line:19]
+[2019-07-07 20:40:51][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:18]
+[2019-07-07 20:42:30][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:20]
+[2019-07-07 20:42:49][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:20]
+[2019-07-07 20:44:18][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:20]
+[2019-07-07 20:45:41][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:20]
+[2019-07-07 20:47:37][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:20]
+[2019-07-08 10:14:31][DEBUG][WARNING] : [Declaration of App\HttpController\Base::__hook(string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) should be compatible with EasySwoole\Http\AbstractInterface\Controller::__hook(?string $actionName, EasySwoole\Http\Request $request, EasySwoole\Http\Response $response) at file:/www/imooc/App/HttpController/Base.php line:20]
