@@ -71,6 +71,13 @@ class Base extends Controller
         $response->withStatus($code);
         $this->response()->end();
     }
+
+    public function getaaa()
+    {
+
+    }
+
+
     public function index()
     {
         // TODO: Implement index() method.
