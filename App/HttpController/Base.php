@@ -56,6 +56,21 @@ class Base extends Controller
 
     }
 
+    //统一封装返回接口
+    public function returnJson($msg = 'ok', $data = [], $bool= true, $code = 200, $errCode = 0 )
+    {
+        $data  = [
+            'error_code'        => $errCode,
+            'msg'               => $msg,
+            'bol'               => $bool,
+            'data'              => $data,
+        ];
+        $response = $this->response();
+        $response->write(json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+        $response->withHeader('Content-type', 'application/json;charset=utf-8');
+        $response->withStatus($code);
+        $this->response()->end();
+    }
     public function index()
     {
         // TODO: Implement index() method.
