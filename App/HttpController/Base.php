@@ -51,6 +51,11 @@ class Base extends Controller
     }
 
 
+    public function getUserInfo($token =null )
+    {
+
+    }
+
     public function index()
     {
         // TODO: Implement index() method.
