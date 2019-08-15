@@ -31,8 +31,8 @@ class EasySwooleEvent implements Event
         /**
          * 热重载
          */
-        $swooleServer = ServerManager::getInstance()->getSwooleServer();
-        $swooleServer->addProcess((new HotReload('HotReload', ['disableInotify' => false]))->getProcess());
+//        $swooleServer = ServerManager::getInstance()->getSwooleServer();
+//        $swooleServer->addProcess((new HotReload('HotReload', ['disableInotify' => false]))->getProcess());
     }
 
     public static function onRequest(Request $request, Response $response): bool

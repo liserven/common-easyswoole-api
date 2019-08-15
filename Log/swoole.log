@@ -703,3 +703,566 @@
 [2019-07-22 17:49:39 $65058.0]	WARNING	swManager_check_exit_status: worker#12[pid=66283] abnormal exit, status=0, signal=9
 [2019-07-22 17:49:39 $65058.0]	WARNING	swManager_check_exit_status: worker#11[pid=66282] abnormal exit, status=0, signal=9
 [2019-07-22 17:49:39 $65058.0]	WARNING	swManager_check_exit_status: worker#9[pid=66280] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:28 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46248] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46249] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46250] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46251] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46252] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46253] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46254] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46255] exit timeout, forced kill
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46249] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46255] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46254] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46253] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46252] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46251] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46250] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:31 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46268] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46278] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46284] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46283] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46282] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46281] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46280] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46279] exit timeout, forced kill
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46278] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46284] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46283] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46282] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46281] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46280] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:34 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46279] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:35 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46285] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46296] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46297] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46298] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46299] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46300] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46301] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46302] exit timeout, forced kill
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46296] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46302] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46301] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46300] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46299] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46298] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:38 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46297] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:39 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46309] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46314] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46320] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46319] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46318] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46317] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46316] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46315] exit timeout, forced kill
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46314] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46320] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46319] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46318] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46317] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46316] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:42 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46315] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:43 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46327] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46332] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46333] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46334] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46335] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46336] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46337] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46338] exit timeout, forced kill
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46332] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46334] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46338] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46337] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46336] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46335] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:46 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46333] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:47 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46341] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46350] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46356] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46351] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46355] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46354] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46353] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46352] exit timeout, forced kill
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46350] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46356] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46355] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46354] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46353] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46352] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:50 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46351] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:51 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46363] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46368] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46369] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46374] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46370] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46371] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46372] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46373] exit timeout, forced kill
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46368] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46374] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46373] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46372] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46371] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46370] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:54 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46369] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:55 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46383] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46387] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46393] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46388] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46392] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46391] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46390] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46389] exit timeout, forced kill
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46387] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46393] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46392] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46391] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46390] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46389] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:58 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46388] abnormal exit, status=0, signal=9
+[2019-08-06 16:56:59 $46247.0]	INFO	Server is reloading all workers now
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=46400] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=46405] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=46406] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=46411] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=46407] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=46408] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=46409] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=46410] exit timeout, forced kill
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#9[pid=46405] abnormal exit, status=0, signal=9
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#11[pid=46411] abnormal exit, status=0, signal=9
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#15[pid=46410] abnormal exit, status=0, signal=9
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#14[pid=46409] abnormal exit, status=0, signal=9
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#13[pid=46408] abnormal exit, status=0, signal=9
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#12[pid=46407] abnormal exit, status=0, signal=9
+[2019-08-06 16:57:02 $46247.0]	WARNING	swManager_check_exit_status: worker#10[pid=46406] abnormal exit, status=0, signal=9
+[2019-08-08 11:32:29 *60177.4]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 *60174.1]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 *60173.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 *60179.6]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 #60163.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 *60180.7]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 *60176.3]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#15[pid=60172] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 *60178.5]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 *60175.2]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#14[pid=60171] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#13[pid=60170] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#12[pid=60169] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#11[pid=60168] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#10[pid=60167] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#9[pid=60166] abnormal exit, status=0, signal=1
+[2019-08-08 11:32:29 $60164.0]	WARNING	swManager_check_exit_status: worker#8[pid=60165] abnormal exit, status=0, signal=1
+[2019-08-08 14:22:07 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65122] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65123] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65124] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65125] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65126] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65127] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65128] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65129] exit timeout, forced kill
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65125] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65129] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65128] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65127] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65126] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65124] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65123] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:10 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65147] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65156] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65155] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65150] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65154] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65153] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65152] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65151] exit timeout, forced kill
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65156] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65155] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65154] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65153] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65152] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65151] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:13 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65150] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:14 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65164] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65168] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65169] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65174] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65170] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65171] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65172] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65173] exit timeout, forced kill
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65168] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65174] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65173] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65172] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65171] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65170] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:17 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65169] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:18 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65181] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65185] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65191] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65186] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65190] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65189] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65188] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65187] exit timeout, forced kill
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65185] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65191] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65190] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65189] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65188] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65187] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:21 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65186] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:22 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65200] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65203] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65204] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65209] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65205] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65206] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65207] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65208] exit timeout, forced kill
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65204] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65209] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65208] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65207] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65206] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65205] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:25 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65203] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:26 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65220] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65230] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65224] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65225] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65229] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65228] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65227] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65226] exit timeout, forced kill
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65230] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65229] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65228] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65227] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65226] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65225] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:29 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65224] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:30 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65240] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65242] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65248] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65247] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65243] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65244] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65245] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65246] exit timeout, forced kill
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65242] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65248] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65247] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65246] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65245] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65244] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:33 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65243] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:34 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65255] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65260] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65261] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65262] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65266] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65265] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65264] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65263] exit timeout, forced kill
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65260] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65266] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65265] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65264] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65263] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65262] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:37 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65261] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:38 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65276] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65278] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65284] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65283] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65279] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65280] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65281] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65282] exit timeout, forced kill
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65278] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65284] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65283] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65282] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65281] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65280] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:41 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65279] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:42 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65292] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65296] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65297] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65298] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65302] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65301] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65300] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65299] exit timeout, forced kill
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65297] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65302] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65301] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65300] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65299] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65298] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:45 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65296] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:46 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65312] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65320] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65314] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65319] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65315] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65316] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65317] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65318] exit timeout, forced kill
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65320] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65319] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65318] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65317] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65316] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65315] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:49 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65314] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:50 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65328] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65332] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65338] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65333] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65337] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65336] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65335] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65334] exit timeout, forced kill
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65332] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65338] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65337] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65336] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65335] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65334] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:53 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65333] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:54 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65340] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65350] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65351] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65356] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65352] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65353] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65354] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65355] exit timeout, forced kill
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65350] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65356] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65355] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65354] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65353] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65352] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:57 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65351] abnormal exit, status=0, signal=9
+[2019-08-08 14:22:58 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65365] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65368] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65374] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65369] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65373] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65372] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65371] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65370] exit timeout, forced kill
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65368] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65374] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65373] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65372] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65371] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65370] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:01 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65369] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:02 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65381] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65386] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65387] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65392] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65388] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65389] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65390] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65391] exit timeout, forced kill
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65386] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65392] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65391] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65390] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65389] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65388] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:05 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65387] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:06 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65399] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65404] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65410] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65405] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65409] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65408] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65407] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65406] exit timeout, forced kill
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65404] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65410] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65409] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65408] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65407] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65406] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:09 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65405] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:10 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65420] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65422] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65423] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65428] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65424] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65425] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65426] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65427] exit timeout, forced kill
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65422] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65428] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65427] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65426] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65425] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65424] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:13 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65423] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:14 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65436] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65440] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65446] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65441] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65445] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65444] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65443] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65442] exit timeout, forced kill
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65440] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65446] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65445] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65444] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65443] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65442] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:17 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65441] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:18 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65456] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65458] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65459] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65464] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65460] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65461] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65462] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65463] exit timeout, forced kill
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65458] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65464] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65463] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65462] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65461] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65460] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:21 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65459] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:22 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65473] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65476] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65482] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65477] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65481] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65480] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65479] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65478] exit timeout, forced kill
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65482] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65481] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65480] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65479] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65478] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65477] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:25 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65476] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:26 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65490] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65502] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65496] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65501] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65497] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65498] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65499] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65500] exit timeout, forced kill
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65502] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65501] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65500] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65499] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65498] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65497] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:29 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65496] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:30 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65508] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65514] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65520] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65515] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65519] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65518] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65517] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65516] exit timeout, forced kill
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65514] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65520] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65519] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65518] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65517] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65516] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65515] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:33 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65526] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65533] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65534] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65539] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65535] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65536] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65537] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65538] exit timeout, forced kill
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65533] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65539] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65538] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65537] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65536] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65535] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:36 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65534] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:37 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65548] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65551] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65557] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65552] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65556] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65555] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65554] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65553] exit timeout, forced kill
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65557] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65556] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65555] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65554] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65553] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65552] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:40 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65551] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:41 $65121.0]	INFO	Server is reloading all workers now
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#8[pid=65564] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#9[pid=65575] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#10[pid=65569] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#11[pid=65574] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#12[pid=65570] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#13[pid=65571] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#14[pid=65572] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#15[pid=65573] exit timeout, forced kill
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#9[pid=65575] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#11[pid=65574] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#15[pid=65573] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#14[pid=65572] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#13[pid=65571] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#12[pid=65570] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:44 $65121.0]	WARNING	swManager_check_exit_status: worker#10[pid=65569] abnormal exit, status=0, signal=9
+[2019-08-08 14:23:45 $65121.0]	INFO	Server is reloading all workers now
